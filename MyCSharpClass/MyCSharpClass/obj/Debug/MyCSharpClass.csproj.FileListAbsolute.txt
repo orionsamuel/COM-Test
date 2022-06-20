@@ -1,0 +1,6 @@
+C:\projects\MyCSharpClass\MyCSharpClass\bin\Debug\MyCSharpClass.dll
+C:\projects\MyCSharpClass\MyCSharpClass\bin\Debug\MyCSharpClass.pdb
+C:\projects\MyCSharpClass\MyCSharpClass\bin\Debug\MyCSharpClass.tlb
+C:\projects\MyCSharpClass\MyCSharpClass\obj\Debug\MyCSharpClass.csproj.CoreCompileInputs.cache
+C:\projects\MyCSharpClass\MyCSharpClass\obj\Debug\MyCSharpClass.dll
+C:\projects\MyCSharpClass\MyCSharpClass\obj\Debug\MyCSharpClass.pdb

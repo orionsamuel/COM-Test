@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,31): error C2039: 'raw_GetTheThing': is not a member of 'MyCSharpClass::_TheClass'
+C:\projects\ConsoleApplication1\ConsoleApplication1\Debug\mycsharpclass.tlh(47): message : see declaration of 'MyCSharpClass::_TheClass'
